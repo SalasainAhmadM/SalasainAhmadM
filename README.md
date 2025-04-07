@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalasainAhmadM](https://github.com/SalasainAhmadM)
 
-- 💬 Ask me about **Java, HTML ,CSS, Php, Javascript and Mysql**
+- 💬 Ask me about **Anime, Movies and Games**
 
 - 📫 How to reach me **salasainahmad@gmail.com**
 
